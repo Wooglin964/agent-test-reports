@@ -1,0 +1,15 @@
+Metric,Value,Status
+Inbound Webhooks Received,14,OK
+Outbound API Calls,0,FAIL
+Avg Response Time (ms),230,OK
+Synology Chat API Errors,5,WARNING
+Error 800 (No Target),3,CRITICAL
+Error 105 (No Permission),1,CRITICAL
+Error 103/104 (Auth),1,WARNING
+Token Validation,200,OK
+Session Lifecycles Completed,7,OK
+Bot Destination Configured,No,CRITICAL
+Gateway Health,UP,OK
+File Upload Support,No,NOT_SUPPORTED
+Firewall Rules Active,8644 open,OK
+Signature Validation,Skipped,INFO
